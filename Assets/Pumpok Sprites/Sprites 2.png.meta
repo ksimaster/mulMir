@@ -1,0 +1,1811 @@
+fileFormatVersion: 2
+guid: cc48bdaa969e7bc4f9ca97bd91d655a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2240700509000918752
+    second: Bullshit
+  - first:
+      213: 3697291219107164306
+    second: Tree_0
+  - first:
+      213: -2960332040221147101
+    second: Tree_1
+  - first:
+      213: 122832069680850699
+    second: Tree_3
+  - first:
+      213: 1959182055755339603
+    second: Cloud_0
+  - first:
+      213: -575564127723152086
+    second: Cloud_4
+  - first:
+      213: -8133078927056584748
+    second: Cloud_8
+  - first:
+      213: -3138888940944406673
+    second: Hatch
+  - first:
+      213: 1921899158262608100
+    second: Circle
+  - first:
+      213: -7728773304129123138
+    second: Tree_2
+  - first:
+      213: 5469086704690577796
+    second: Cloud_1
+  - first:
+      213: 9157631741745811791
+    second: Cloud_5
+  - first:
+      213: -1336995824237615446
+    second: Cloud_9
+  - first:
+      213: -7032641481604306335
+    second: Bath
+  - first:
+      213: 8679563779523809400
+    second: Box_1
+  - first:
+      213: -1846282601640963645
+    second: Cloud_2
+  - first:
+      213: -2704062268291057847
+    second: Cloud_6
+  - first:
+      213: 140428624356971369
+    second: Cloud_10
+  - first:
+      213: -5323612295226612258
+    second: Cloud_3
+  - first:
+      213: 1938591904761199999
+    second: Cloud_7
+  - first:
+      213: -8945670365409351576
+    second: Cloud_11
+  - first:
+      213: -4911252978404232035
+    second: Oval
+  - first:
+      213: -3331527303552813158
+    second: Tree_4
+  - first:
+      213: 1505558481492400245
+    second: Tree_5
+  - first:
+      213: -1752287691101815646
+    second: Tree_6
+  - first:
+      213: -4984753328945137532
+    second: Tree_7
+  - first:
+      213: -6035124760286184465
+    second: Tree_8
+  - first:
+      213: 2136504997858733080
+    second: Tank_0
+  - first:
+      213: -6428821378711767796
+    second: Tank_1
+  - first:
+      213: -3248647858970193545
+    second: Post_0
+  - first:
+      213: -8969570927792687432
+    second: Post_1
+  - first:
+      213: 7881232325715474118
+    second: Post_2
+  - first:
+      213: -5576458785749741850
+    second: Post_3
+  - first:
+      213: -2506925211708918474
+    second: Box_0
+  - first:
+      213: 437673352959417006
+    second: Bush_0
+  - first:
+      213: -3145494396862777883
+    second: Bush_1
+  - first:
+      213: -6922086472561903140
+    second: Bush_2
+  - first:
+      213: -7643323662869586706
+    second: Bush_3
+  - first:
+      213: 5582871487151420585
+    second: Pineapple
+  - first:
+      213: -7637834517476080026
+    second: Star_0
+  - first:
+      213: -3608915200837644210
+    second: Star_1
+  - first:
+      213: 6960306132140997668
+    second: Star_2
+  - first:
+      213: -287140682001526549
+    second: UI_0
+  - first:
+      213: 8197534141732768943
+    second: Apple
+  - first:
+      213: 1394666803925152576
+    second: Banana
+  - first:
+      213: 4253652361043533204
+    second: Cucumber
+  - first:
+      213: -64700099564538764
+    second: Tangerine
+  - first:
+      213: -5388235295754160040
+    second: Tomato
+  - first:
+      213: -607678022490070716
+    second: Cheri
+  - first:
+      213: -2477797100483192395
+    second: Chocolate_0
+  - first:
+      213: -7565313438400703388
+    second: Beer_0
+  - first:
+      213: -1213064219955082775
+    second: Beer_1
+  - first:
+      213: 4163293091165543088
+    second: Juice
+  - first:
+      213: 7619686771621519502
+    second: Star_3
+  - first:
+      213: 6477798184022852080
+    second: Strawberry_0
+  - first:
+      213: 5440767579832010422
+    second: Strawberry_1
+  - first:
+      213: -6214151189138379440
+    second: Grave_0
+  - first:
+      213: 244656474950747937
+    second: Grave_1
+  - first:
+      213: -2194844327297189740
+    second: Grave_2
+  - first:
+      213: 1009542268382132681
+    second: Chocolate_1
+  - first:
+      213: -3349213012731977393
+    second: Lighter
+  - first:
+      213: -214546877719560958
+    second: Chips
+  - first:
+      213: -2251084357496016430
+    second: Radio
+  - first:
+      213: -9017543230261717700
+    second: Paper
+  - first:
+      213: -2376582386054795668
+    second: UI_1
+  - first:
+      213: 6447017721614123387
+    second: Potato
+  - first:
+      213: -6277009400536198561
+    second: Cigarettes
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullshit
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 776
+        width: 82
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6690fbd31981f10800000000000000
+      internalID: 2240700509000918752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 737
+        width: 103
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290bd0256ca6f4330800000000000000
+      internalID: 3697291219107164306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 733
+        width: 119
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204965a1b9cae6d0800000000000000
+      internalID: -2960332040221147101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 727
+        width: 128
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b076a58dd1364b100800000000000000
+      internalID: 122832069680850699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_0
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 977
+        width: 168
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357dd9313b9603b10800000000000000
+      internalID: 1959182055755339603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_4
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 972
+        width: 168
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9a9da97f2308f0800000000000000
+      internalID: -575564127723152086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_8
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 965
+        width: 156
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb3968ecf712f80800000000000000
+      internalID: -8133078927056584748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatch
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 997
+        width: 187
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f674b95832d6074d0800000000000000
+      internalID: -3138888940944406673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 961
+        width: 127
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e07d5e0a15fbaa10800000000000000
+      internalID: 1921899158262608100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 729
+        width: 126
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8cd1f0a1edb490800000000000000
+      internalID: -7728773304129123138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 894
+        width: 115
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c4e6a16916eb40800000000000000
+      internalID: 5469086704690577796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_5
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 889
+        width: 115
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d996cc81761f70800000000000000
+      internalID: 9157631741745811791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_9
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 883
+        width: 120
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e22ea169027de0800000000000000
+      internalID: -1336995824237615446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 811
+        width: 291
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a6c4045d9076e90800000000000000
+      internalID: -7032641481604306335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_1
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 804
+        width: 161
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701ddb6541047870800000000000000
+      internalID: 8679563779523809400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 821
+        width: 146
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d43e71cfa066e0800000000000000
+      internalID: -1846282601640963645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_6
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 815
+        width: 146
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94779f791bd397ad0800000000000000
+      internalID: -2704062268291057847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_10
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 786
+        width: 155
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963181ff617e2f100800000000000000
+      internalID: 140428624356971369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 724
+        width: 185
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ad1db2dabe16b0800000000000000
+      internalID: -5323612295226612258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 719
+        width: 185
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d3db7f01347ea10800000000000000
+      internalID: 1938591904761199999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_11
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 691
+        width: 223
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686908e2389ad380800000000000000
+      internalID: -8945670365409351576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oval
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 700
+        width: 188
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f224ef69b7dbb0800000000000000
+      internalID: -4911252978404232035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 490
+        width: 94
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a973830919904c1d0800000000000000
+      internalID: -3331527303552813158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 488
+        width: 109
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5785eed4671d4e410800000000000000
+      internalID: 1505558481492400245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 490
+        width: 115
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac369301af9ea7e0800000000000000
+      internalID: -1752287691101815646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 492
+        width: 124
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4887747f14992dab0800000000000000
+      internalID: -4984753328945137532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 487
+        width: 120
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb3af7810eee3ca0800000000000000
+      internalID: -6035124760286184465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_0
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 485
+        width: 130
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c6732d9f366ad10800000000000000
+      internalID: 2136504997858733080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_1
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 481
+        width: 129
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b275740d38c6a0800000000000000
+      internalID: -6428821378711767796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Post_0
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 354
+        width: 103
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7719fbdfbfb7ae2d0800000000000000
+      internalID: -3248647858970193545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Post_1
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 349
+        width: 119
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6fe3593cea58380800000000000000
+      internalID: -8969570927792687432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Post_2
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 343
+        width: 115
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b89e2b03cf5d60800000000000000
+      internalID: 7881232325715474118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Post_3
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 338
+        width: 123
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eec7ca97407c92b0800000000000000
+      internalID: -5576458785749741850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_0
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 534
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357e9d5dcc953dd0800000000000000
+      internalID: -2506925211708918474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 338
+        width: 152
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaadcca789de21600800000000000000
+      internalID: 437673352959417006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 341
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e53308f285f854d0800000000000000
+      internalID: -3145494396862777883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 346
+        width: 172
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9396a270fcfef90800000000000000
+      internalID: -6922086472561903140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 346
+        width: 171
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec125bef957de590800000000000000
+      internalID: -7643323662869586706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pineapple
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 216
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4315ac9085a7d40800000000000000
+      internalID: 5582871487151420585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_0
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 354
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660f9c29f5f00690800000000000000
+      internalID: -7637834517476080026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_1
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 378
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e409095eebe8aedc0800000000000000
+      internalID: -3608915200837644210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_2
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 381
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbc36cc89f79060800000000000000
+      internalID: 6960306132140997668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 150
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05cb0321fd30cf0800000000000000
+      internalID: -287140682001526549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 189
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4e189edd73c170800000000000000
+      internalID: 8197534141732768943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 179
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043fcf3a11ada5310800000000000000
+      internalID: 1394666803925152576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cucumber
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 208
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d500a1942080b30800000000000000
+      internalID: 4253652361043533204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangerine
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 219
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f58c2a932a1ff0800000000000000
+      internalID: -64700099564538764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomato
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 218
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f95eeb842935b0800000000000000
+      internalID: -5388235295754160040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheri
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 219
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441eaa3ee081197f0800000000000000
+      internalID: -607678022490070716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chocolate_0
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 244
+        width: 131
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9d4304aa81d9dd0800000000000000
+      internalID: -2477797100483192395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beer_0
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 171
+        width: 49
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46413a1b28b920790800000000000000
+      internalID: -7565313438400703388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beer_1
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 173
+        width: 52
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e947dfd4845a2fe0800000000000000
+      internalID: -1213064219955082775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juice
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 166
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba92c2220df6c930800000000000000
+      internalID: 4163293091165543088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_3
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 283
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806e3a7fb09eb960800000000000000
+      internalID: 7619686771621519502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_0
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 67
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f14a55a023c5e950800000000000000
+      internalID: 6477798184022852080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 54
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64955994d718b40800000000000000
+      internalID: 5440767579832010422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave_0
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 7
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de5deda66e2c9a0800000000000000
+      internalID: -6214151189138379440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave_1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 18
+        width: 145
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127407984c1356300800000000000000
+      internalID: 244656474950747937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave_2
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 21
+        width: 126
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987b2e86b85a81e0800000000000000
+      internalID: -2194844327297189740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chocolate_1
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 147
+        width: 160
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9b8a4285d920e00800000000000000
+      internalID: 1009542268382132681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lighter
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 67
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41aef282843581d0800000000000000
+      internalID: -3349213012731977393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chips
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 48
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d3bdd50c6c50df0800000000000000
+      internalID: -214546877719560958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 58
+        width: 164
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f20024ba82c0e0800000000000000
+      internalID: -2251084357496016430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paper
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 135
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35958585304bd280800000000000000
+      internalID: -9017543230261717700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 155
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee0cb59eea40fd0800000000000000
+      internalID: -2376582386054795668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 70
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b714575c578687950800000000000000
+      internalID: 6447017721614123387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cigarettes
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 43
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52904d053593e8a0800000000000000
+      internalID: -6277009400536198561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chocolate_0: -2477797100483192395
+      Cheri: -607678022490070716
+      UI_1: -2376582386054795668
+      Tree_4: -3331527303552813158
+      Cloud_5: 9157631741745811791
+      Cloud_1: 5469086704690577796
+      Tree_0: 3697291219107164306
+      Radio: -2251084357496016430
+      Pineapple: 5582871487151420585
+      Tree_8: -6035124760286184465
+      Bush_3: -7643323662869586706
+      Juice: 4163293091165543088
+      Tree_3: 122832069680850699
+      Strawberry_0: 6477798184022852080
+      Bush_2: -6922086472561903140
+      Cloud_6: -2704062268291057847
+      Star_0: -7637834517476080026
+      Tomato: -5388235295754160040
+      Grave_2: -2194844327297189740
+      Cloud_4: -575564127723152086
+      Bush_0: 437673352959417006
+      Tangerine: -64700099564538764
+      Cucumber: 4253652361043533204
+      Star_3: 7619686771621519502
+      Lighter: -3349213012731977393
+      Paper: -9017543230261717700
+      Cloud_2: -1846282601640963645
+      Star_2: 6960306132140997668
+      Post_2: 7881232325715474118
+      Star_1: -3608915200837644210
+      Bath: -7032641481604306335
+      Tank_1: -6428821378711767796
+      Cloud_0: 1959182055755339603
+      Grave_1: 244656474950747937
+      Tank_0: 2136504997858733080
+      Hatch: -3138888940944406673
+      Cloud_9: -1336995824237615446
+      Post_0: -3248647858970193545
+      Tree_5: 1505558481492400245
+      Post_1: -8969570927792687432
+      Potato: 6447017721614123387
+      Cigarettes: -6277009400536198561
+      Banana: 1394666803925152576
+      Beer_1: -1213064219955082775
+      Oval: -4911252978404232035
+      Chocolate_1: 1009542268382132681
+      Tree_6: -1752287691101815646
+      Grave_0: -6214151189138379440
+      Circle: 1921899158262608100
+      Tree_1: -2960332040221147101
+      Tree_7: -4984753328945137532
+      Cloud_8: -8133078927056584748
+      Bush_1: -3145494396862777883
+      UI_0: -287140682001526549
+      Chips: -214546877719560958
+      Strawberry_1: 5440767579832010422
+      Beer_0: -7565313438400703388
+      Tree_2: -7728773304129123138
+      Cloud_10: 140428624356971369
+      Cloud_11: -8945670365409351576
+      Cloud_3: -5323612295226612258
+      Post_3: -5576458785749741850
+      Cloud_7: 1938591904761199999
+      Box_0: -2506925211708918474
+      Box_1: 8679563779523809400
+      Apple: 8197534141732768943
+      Bullshit: 2240700509000918752
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: 2335696a2d480f142bacab066ea2503e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6381250779897543827
+    second: Desk
+  - first:
+      213: -5047710094702338792
+    second: Microphone
+  - first:
+      213: -4435637333761256659
+    second: Speaker_0
+  - first:
+      213: -2817809133013789179
+    second: Guitar_0
+  - first:
+      213: 1395389092666911914
+    second: Guitar_1
+  - first:
+      213: 1893517319879507496
+    second: Guitar_2
+  - first:
+      213: 8532835176260675256
+    second: Guitar_3
+  - first:
+      213: -7107718560697818215
+    second: Guitar_4
+  - first:
+      213: 3150022132483962268
+    second: Wardrobe
+  - first:
+      213: 2694097888451949521
+    second: Vinyl record player
+  - first:
+      213: 3604511962139053777
+    second: Babin player
+  - first:
+      213: -5312446005750495657
+    second: Record player
+  - first:
+      213: 1645609518549476348
+    second: Synthesizer_0
+  - first:
+      213: -7024595853041667365
+    second: Synthesizer_2
+  - first:
+      213: 8460506259373861260
+    second: Screen
+  - first:
+      213: -4361666422159817116
+    second: Patiphon
+  - first:
+      213: -1317641107509071414
+    second: Caseta_0
+  - first:
+      213: -7768604716146575794
+    second: Vinyl packaging_0
+  - first:
+      213: -6283038603782556208
+    second: Vinyl record_0
+  - first:
+      213: -6066195153755567726
+    second: Synthesizer_1
+  - first:
+      213: -502989588451813659
+    second: Synthesizer_3
+  - first:
+      213: 1850886364062762293
+    second: Keyboard and mouse
+  - first:
+      213: 2087757717054392488
+    second: Mixer
+  - first:
+      213: -1246153307091879369
+    second: Caseta_1
+  - first:
+      213: -6591449773063525496
+    second: Vinyl record_1
+  - first:
+      213: -5661308919176726241
+    second: Speaker_2
+  - first:
+      213: 557081373128047923
+    second: Disk
+  - first:
+      213: 3583117655440940912
+    second: Vinyl packaging_2
+  - first:
+      213: -7251588968649098231
+    second: Ballalaica
+  - first:
+      213: -1437534228024323873
+    second: Organ
+  - first:
+      213: 6002315915866827042
+    second: Caseta2
+  - first:
+      213: -6727990534820884495
+    second: Vinyl packaging_1
+  - first:
+      213: -1582265643682589561
+    second: Speaker_1
+  - first:
+      213: 2095221772462124010
+    second: Drum kit
+  - first:
+      213: 2237728699510759120
+    second: Micro
+  - first:
+      213: 8329966689915145322
+    second: Kombik
+  - first:
+      213: 6488651471355244107
+    second: Plugins
+  - first:
+      213: -5945208680074559367
+    second: Compressor
+  - first:
+      213: -7061443102376249569
+    second: Piano
+  - first:
+      213: 8455011221068404273
+    second: Plug
+  - first:
+      213: 7482169744248386538
+    second: Wire
+  - first:
+      213: -8590056399268151970
+    second: Extension cable_0
+  - first:
+      213: 2873815393167692140
+    second: Extension cable_1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desk
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 725
+        width: 106
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c589993e3177a0800000000000000
+      internalID: -6381250779897543827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microphone
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 938
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1d1ca96ee2f9b0800000000000000
+      internalID: -5047710094702338792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaker_0
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 841
+        width: 135
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2313b098537172c0800000000000000
+      internalID: -4435637333761256659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guitar_0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 758
+        width: 181
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5069cddd58125e8d0800000000000000
+      internalID: -2817809133013789179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guitar_1
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 774
+        width: 205
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacadd79cfa6d5310800000000000000
+      internalID: 1395389092666911914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guitar_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 772
+        width: 169
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb77b58ff174a10800000000000000
+      internalID: 1893517319879507496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guitar_3
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 787
+        width: 169
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a9f74268ba6670800000000000000
+      internalID: 8532835176260675256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guitar_4
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 773
+        width: 178
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e72a90af4c5d90800000000000000
+      internalID: -7107718560697818215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wardrobe
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 702
+        width: 339
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c953351a07027bb20800000000000000
+      internalID: 3150022132483962268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vinyl record player
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 808
+        width: 186
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3fe4f61cb536520800000000000000
+      internalID: 2694097888451949521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babin player
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 563
+        width: 149
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec1f3388cc50230800000000000000
+      internalID: 3604511962139053777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Record player
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 595
+        width: 189
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7568cca11866646b0800000000000000
+      internalID: -5312446005750495657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Synthesizer_0
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 610
+        width: 197
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3a428632166d610800000000000000
+      internalID: 1645609518549476348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Synthesizer_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 624
+        width: 226
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f4c02a4f938e90800000000000000
+      internalID: -7024595853041667365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 584
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a2f10e91c96570800000000000000
+      internalID: 8460506259373861260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiphon
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 554
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664a668f7f3873c0800000000000000
+      internalID: -4361666422159817116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caseta_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 465
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13875d46cc6bde0800000000000000
+      internalID: -1317641107509071414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vinyl packaging_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 416
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b8a5ab2f503490800000000000000
+      internalID: -7768604716146575794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vinyl record_0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 434
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57977cda92ec8a0800000000000000
+      internalID: -6283038603782556208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Synthesizer_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 482
+        width: 202
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990432d5ab80dba0800000000000000
+      internalID: -6066195153755567726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Synthesizer_3
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 395
+        width: 229
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61c9e52a50509f0800000000000000
+      internalID: -502989588451813659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard and mouse
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 495
+        width: 172
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354399775bafa910800000000000000
+      internalID: 1850886364062762293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mixer
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 472
+        width: 379
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88b1e059439fc10800000000000000
+      internalID: 2087757717054392488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caseta_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 371
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3c1b6b26c4bee0800000000000000
+      internalID: -1246153307091879369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vinyl record_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 328
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b28b9ba577684a0800000000000000
+      internalID: -6591449773063525496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaker_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 227
+        width: 144
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1978bc688dfe61b0800000000000000
+      internalID: -5661308919176726241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disk
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 399
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db84cae862bb700800000000000000
+      internalID: 557081373128047923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vinyl packaging_2
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 389
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fdcf0068ac9b130800000000000000
+      internalID: 3583117655440940912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballalaica
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 303
+        width: 184
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c778ae04e2d5b90800000000000000
+      internalID: -7251588968649098231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Organ
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 72
+        width: 297
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0152a6c3adc0ce0800000000000000
+      internalID: -1437534228024323873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caseta2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 280
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296aea16828c4350800000000000000
+      internalID: 6002315915866827042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vinyl packaging_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 247
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8fc7414061a2a0800000000000000
+      internalID: -6727990534820884495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaker_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 230
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7849effb7c9aa0ae0800000000000000
+      internalID: -1582265643682589561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum kit
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 76
+        width: 373
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe441e919b31d10800000000000000
+      internalID: 2095221772462124010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 83
+        width: 79
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de190e65620e0f10800000000000000
+      internalID: 2237728699510759120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kombik
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8a37029cf99370800000000000000
+      internalID: 8329966689915145322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plugins
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 117
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ee17582225c0a50800000000000000
+      internalID: 6488651471355244107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compressor
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 96
+        width: 151
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970469c54306e7da0800000000000000
+      internalID: -5945208680074559367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 68
+        width: 248
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f173b3959e6b00e90800000000000000
+      internalID: -7061443102376249569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plug
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13659b3b8eb365570800000000000000
+      internalID: 8455011221068404273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wire
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 37
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b91b7db106d760800000000000000
+      internalID: 7482169744248386538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extension cable_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 25
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dfc09873df9c880800000000000000
+      internalID: -8590056399268151970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extension cable_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 26
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c615fcbbfd7d1e720800000000000000
+      internalID: 2873815393167692140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Micro: 2237728699510759120
+      Guitar_0: -2817809133013789179
+      Wire: 7482169744248386538
+      Babin player: 3604511962139053777
+      Kombik: 8329966689915145322
+      Vinyl record player: 2694097888451949521
+      Guitar_3: 8532835176260675256
+      Microphone: -5047710094702338792
+      Guitar_4: -7107718560697818215
+      Compressor: -5945208680074559367
+      Caseta_1: -1246153307091879369
+      Guitar_2: 1893517319879507496
+      Vinyl packaging_2: 3583117655440940912
+      Plug: 8455011221068404273
+      Screen: 8460506259373861260
+      Caseta_0: -1317641107509071414
+      Patiphon: -4361666422159817116
+      Vinyl packaging_1: -6727990534820884495
+      Desk: -6381250779897543827
+      Piano: -7061443102376249569
+      Synthesizer_3: -502989588451813659
+      Keyboard and mouse: 1850886364062762293
+      Plugins: 6488651471355244107
+      Synthesizer_0: 1645609518549476348
+      Wardrobe: 3150022132483962268
+      Speaker_2: -5661308919176726241
+      Speaker_1: -1582265643682589561
+      Extension cable_1: 2873815393167692140
+      Guitar_1: 1395389092666911914
+      Vinyl packaging_0: -7768604716146575794
+      Synthesizer_1: -6066195153755567726
+      Synthesizer_2: -7024595853041667365
+      Vinyl record_0: -6283038603782556208
+      Mixer: 2087757717054392488
+      Disk: 557081373128047923
+      Extension cable_0: -8590056399268151970
+      Vinyl record_1: -6591449773063525496
+      Record player: -5312446005750495657
+      Ballalaica: -7251588968649098231
+      Caseta2: 6002315915866827042
+      Drum kit: 2095221772462124010
+      Organ: -1437534228024323873
+      Speaker_0: -4435637333761256659
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
